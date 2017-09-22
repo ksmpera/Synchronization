@@ -1,0 +1,6 @@
+D:\pera\Synchronization\Synchronization\bin\Debug\Synchronization.exe.config
+D:\pera\Synchronization\Synchronization\obj\Debug\Synchronization.csprojResolveAssemblyReference.cache
+D:\pera\Synchronization\Synchronization\bin\Debug\Synchronization.exe
+D:\pera\Synchronization\Synchronization\bin\Debug\Synchronization.pdb
+D:\pera\Synchronization\Synchronization\obj\Debug\Synchronization.exe
+D:\pera\Synchronization\Synchronization\obj\Debug\Synchronization.pdb
